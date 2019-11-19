@@ -36,5 +36,5 @@ That's it!  On boot the service will reset (usb_modeswitch) the KOOTEK interface
 If you'd ever like to disable the service, run the command:
 
 ````
-systemctl disable wifi-reset.service
+systemctl disable koo-reset.service
 ````
