@@ -14,13 +14,13 @@ Next make sure you've upgraded to the latest kernel available by executing once 
 
 ````
 cd /opt/scripts/tools/
-./update_kernel.sh
+sudo ./update_kernel.sh
 ````
 
 Once the kernel has updated and the device restarted, install the service by entering the directory where this repository was cloned and executing:
 
 ````
-./install.sh
+sudo ./install.sh
 ````
 
 You should see the following response:
