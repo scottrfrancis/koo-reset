@@ -1,4 +1,4 @@
-WiFi Reset Service for Kootek WiFi (RTL8188CUS USB Adapter)
+WiFi Reset Service for Kootek WiFi (RTL8188CUS USB Adapter) for BeagleBone
 ==================
 
 Systemd service to reset (via usb_modeswitch) the KOOTEK wireless interface on boot.  Greatly improves reliability of wifi adapters on the BeagleBone Green.
